@@ -1,0 +1,5 @@
+a) A checked exception is an exception that occurs at the compile time.
+
+b) An unchecked exception is the one which occurs at the time of execution.
+
+c) RuntimeException is unchecked exception
