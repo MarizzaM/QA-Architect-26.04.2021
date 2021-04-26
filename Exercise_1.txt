@@ -1,0 +1,9 @@
+a) The Exception class is the base class from which exceptions inherit. 
+Classes with own exceptions which are basically derived classes of Exception and inherit from class Exception
+
+b)An runtime exception is an exception that occurs at the time of execution.
+
+c)
+ArithmeticException
+ArrayIndexOutOfBoundsException
+NullPointerException
