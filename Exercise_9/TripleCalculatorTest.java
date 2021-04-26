@@ -26,7 +26,15 @@ public class TripleCalculatorTest {
         }
         return 0;
     }
+    
+    @Test
+    public void test_TripleCalculator_input0(){
+        TripleCalculator calculator = new TripleCalculator();
+        int number = 0;
 
+        assertEquals(calculator.calc(number), 300);
+    }
+    
     @Test
     public void test_TripleCalculator_mul3(){
         TripleCalculator calculator = new TripleCalculator();
