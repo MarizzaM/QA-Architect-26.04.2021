@@ -1,0 +1,2 @@
+Java Custom Exceptions are used to customize the exception according to our need. By the help of custom exception, 
+we can have your own exception and message.
