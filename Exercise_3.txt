@@ -1,0 +1,3 @@
+The finally statement lets you execute code, after try and catch, regardless of the result.
+
+ Finally using for block of code to be executed regardless of the try / catch result
